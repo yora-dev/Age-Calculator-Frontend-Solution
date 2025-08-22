@@ -1,0 +1,14 @@
+:root {
+  --birth-year: hsl(259, 100%, 65%);
+  --error-color: hsl(0, 100%, 67%);
+
+  --card-bg: hsl(0, 100%, 100%);
+  --body-bg: hsl(0, 0%, 94%);
+  --border-color: hsl(0, 0%, 86%);
+  --user-input: hsl(0, 1%, 44%);
+  --user-date: hsl(0, 0%, 0%);
+}
+
+body {
+  background-color: var(--body-bg);
+}
