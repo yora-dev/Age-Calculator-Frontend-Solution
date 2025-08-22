@@ -109,6 +109,7 @@ main {
 
 span {
   color: var(--birth-year);
+  margin-right: 1rem;
 }
 
 .error {
