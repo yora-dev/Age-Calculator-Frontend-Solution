@@ -70,6 +70,9 @@ main {
   width: 100%;
   border-radius: 2rem;
   border-bottom-right-radius: 6rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .input-container {
@@ -84,7 +87,29 @@ main {
   border-radius: 50%;
   border: none;
   padding: 1rem;
-  width: 50px;
+  width: 40px;
   position: absolute;
   bottom: -20px;
+}
+
+.result-container {
+  margin-top: 4rem;
+}
+
+.result-container p {
+  font-size: 3.2rem;
+  color: var(--user-date);
+  font-style: italic;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+}
+
+span {
+  color: var(--birth-year);
+}
+
+.error {
+  color: var(--error-color);
+  display: none;
 }

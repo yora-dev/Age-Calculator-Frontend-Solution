@@ -20,17 +20,26 @@
           <div class="input-field">
             <label for="day" class="date">day</label>
             <input type="text" name="" id="day" placeholder="DD" />
+            <p class="error day-error">Must be a valid day</p>
           </div>
           <div class="input-field">
             <label for="month" class="date">month</label>
             <input type="text" name="" id="month" placeholder="MM" />
+            <p class="error month-error">Must be a valid month</p>
           </div>
           <div class="input-field">
             <label for="year" class="date">year</label>
             <input type="text" name="" id="year" placeholder="YYYY" />
+            <p class="error year-error">Must be in the past</p>
           </div>
         </form>
         <img src="images/icon-arrow.svg" alt="" class="arrow" />
+      </div>
+
+      <div class="result-container">
+        <p><span>--</span> years</p>
+        <p><span>--</span> months</p>
+        <p><span>--</span> days</p>
       </div>
     </main>
   </body>
