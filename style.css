@@ -115,4 +115,14 @@ span {
 .error {
   color: var(--error-color);
   display: none;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.active {
+  display: block;
+}
+
+.label {
+  color: var(--error-color);
 }
