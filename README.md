@@ -11,6 +11,7 @@ A small, lightweight Age Calculator that computes a person's age (years, months,
 - [Contributing](#contributing)
 - [Screenshots](#screenshots)
 - [Links](#links)
+- [Author](#author)
 
 ## Features
 
@@ -49,3 +50,9 @@ A small, lightweight Age Calculator that computes a person's age (years, months,
 
 - Live site: https://age-calculator-frontend-solution.vercel.app/
 - Solution site: https://www.frontendmentor.io/solutions/age-calculator-app-by-using-html-css-and-js-ydkx0KuZwC
+
+## Author
+
+- Frontend Mentor - [@yora-dev](https://www.frontendmentor.io/profile/yourusername)
+- GitHub - [@yora-dev](https://github.com/yourusername)
+- Discord - [@yordanos01](https://discord.com/yordanos01)
