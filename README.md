@@ -43,7 +43,7 @@ A small, lightweight Age Calculator that computes a person's age (years, months,
 
 ## Screenshots
 
-![Desktop layout — main screen](.preview.jpg)
+![Desktop layout — main screen](./preview.jpg)
 
 ## Live Site
 
