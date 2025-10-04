@@ -68,6 +68,7 @@ main {
   padding: 3rem 2rem;
   background-color: var(--card-bg);
   width: 100%;
+  max-width: 400px;
   border-radius: 2rem;
   border-bottom-right-radius: 6rem;
   display: flex;
