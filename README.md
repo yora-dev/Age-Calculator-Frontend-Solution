@@ -53,6 +53,9 @@ A small, lightweight Age Calculator that computes a person's age (years, months,
 
 ## Author
 
-- Frontend Mentor - [@yora-dev](https://www.frontendmentor.io/profile/yourusername)
-- GitHub - [@yora-dev](https://github.com/yourusername)
+## Author
+
+- Frontend Mentor - [@yora-dev](https://www.frontendmentor.io/profile/yora-dev)
+- GitHub - [@yora-dev](https://github.com/yora-dev)
 - Discord - [@yordanos01](https://discord.com/yordanos01)
+
